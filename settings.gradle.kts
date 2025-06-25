@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "DoggyWalker"
 include(":app")
- 
