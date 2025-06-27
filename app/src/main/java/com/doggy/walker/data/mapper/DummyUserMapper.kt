@@ -15,7 +15,6 @@ class DummyUserMapper @Inject constructor() {
         )
     }
 
-
     //entity -> dto : 서버에 데이터 보낼 때
     fun mapEntityToDto(entity : DummyUser) : DummyResponseDto {
         return DummyResponseDto(
