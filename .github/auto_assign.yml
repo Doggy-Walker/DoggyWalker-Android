@@ -1,0 +1,8 @@
+addAssignees: author
+
+addReviewers: true
+
+reviewers:
+  - JiWoo1261
+  - vvan2
+  - sonms
