@@ -82,16 +82,16 @@ Retrofit2의 선언적 API 정의와 OkHttp의 강력한 인터셉터 기능으�
 
 ## 💡 Convention
 #### 🐾 Git Convention
-[Git Convention](https://www.notion.so/Git-Convention-222564d8d2a780aa9050f7a55fb93e0e?source=copy_link)
+[Git Convention](https://shadow-impatiens-f13.notion.site/Git-Convention-222564d8d2a780aa9050f7a55fb93e0e?source=copy_link)
 
 #### 🪵 Branch Convention
-[Branch Convention](https://www.notion.so/Branch-Convention-223564d8d2a7804f8cb4d754a8e66a99?source=copy_link)
+[Branch Convention](https://shadow-impatiens-f13.notion.site/Branch-Convention-223564d8d2a7804f8cb4d754a8e66a99?source=copy_link)
 
 #### 🛠 Coding Convention
 [Coding Convention](https://shadow-impatiens-f13.notion.site/Coding-Convention-222564d8d2a7809e9346da547bee6cc2?source=copy_link)
 
 #### 📂 Package Convention
-[Package Convention](https://www.notion.so/Packaging-Convention-222564d8d2a780b38d54f770fca1718c?source=copy_link)
+[Package Convention](https://shadow-impatiens-f13.notion.site/Packaging-Convention-222564d8d2a780b38d54f770fca1718c?source=copy_link)
 
 
 <br>
