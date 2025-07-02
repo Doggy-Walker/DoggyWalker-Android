@@ -14,11 +14,11 @@ val properties = Properties().apply {
 }
 
 android {
-    namespace = "com.doggy.walker"
+    namespace = "com.paw.key"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.doggy.walker"
+        applicationId = "com.paw.key"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.targetSdk.get().toInt()
         versionCode = libs.versions.versionCode.get().toInt()
