@@ -1,5 +1,5 @@
-# Doggy Walker
-### 36th AT SOPT Doggy Walker 안드로이드 레포지토리
+# PAWKEY
+### 36th AT SOPT - PAWKEY 안드로이드 레포지토리
 ![image](https://github.com/user-attachments/assets/c4f5ed8f-bc90-4e61-a045-ff4da259d441)
 <br>
 
@@ -7,10 +7,10 @@
 
 <br>
 
-##  Doggy Walker
+##  PAWKEY
 **반려동물과 보호자의 일상적인 산책을 더 다채롭고 즐거운 경험으로 바꿔주는 위치 기반 산책 큐레이션 플랫폼**
 
-```
+
 ### **📍 1. 지역 기반 추천 루트 탐색**
 
 내 위치와 선호 조건에 따라 **인기 산책 루트**를 추천받아요.
@@ -41,7 +41,7 @@
 
 ---
 
-```
+
 
 <br><br>
 
